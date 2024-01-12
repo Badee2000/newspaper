@@ -7,6 +7,7 @@
 ## Features
 
 - Custom user model: Developer can config the user model.
+- Testing: Tests for user app to make sure everything work well.
 - User registration and authentication: Users can create accounts, log in, and log out of the system.
 - Article creation and management: Authenticated users can upload articles and have full control over their own posts, including editing and deleting them.
 - Commenting system: Users can leave comments on articles to engage in discussions.
