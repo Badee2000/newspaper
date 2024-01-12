@@ -145,9 +145,9 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 
 # If you are using a SMTP service provider
-DEFAULT_FROM_EMAIL = 'noble13@ethereal.email'
-EMAIL_HOST = 'smtp.ethereal.email'
-EMAIL_HOST_USER = 'noble13@ethereal.email'
-EMAIL_HOST_PASSWORD = 'QEF75nMh4e59UYZvUx'
+DEFAULT_FROM_EMAIL = ''
+EMAIL_HOST = ''
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
